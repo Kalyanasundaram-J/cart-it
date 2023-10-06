@@ -4,8 +4,8 @@ To get started with Cart It, follow these steps:
 
 1. Clone the repository:
 ```bash
-$ git clone 
-$ cd 
+$ git clone https://github.com/Kalyanasundaram-J/cart-it.git
+$ cd cart-it
 ```
 
 3. Install dependencies:
